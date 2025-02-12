@@ -18,7 +18,7 @@ st.title("太陽の計算 (今日の日の出時刻、日没時刻、現在時�
 #st.title("Caluculate about Sun (Sunrise, Sunset, Elevation, Azimuth on Current time)")
 
 #st.write('Default latitude = 35.6895, longitude = 139.6917, timezone = "Asia/Tokyo" is 東京')
-st.write('Default latitude = 35.6895, longitude = 139.6917, timezone = "Asia/Tokyo" is つくば')
+st.write('Default latitude = 36.0947916, longitude = 140.1104976, timezone = "Asia/Tokyo" is つくば')
 
 str_latitude = st.text_input('Please input latitude', value = latitude)
 str_longitude = st.text_input('Please input longiture', value = longitude)
