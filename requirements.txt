@@ -1,0 +1,4 @@
+streamlit
+pysolar
+astral
+pytz
